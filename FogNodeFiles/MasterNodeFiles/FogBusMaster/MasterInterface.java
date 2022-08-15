@@ -1,7 +1,4 @@
-/* 
-	Coded by:
-	Shreshth Tuli
-*/
+
 	
 import java.io.*;
 import java.util.*;
